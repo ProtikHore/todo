@@ -54,7 +54,7 @@
                 processData: false,
                 success: function (result) {
                     console.log(result);
-                    location = '{{ url('/') }}';
+                    window.location = '{{ url('/') }}';
                 },
                 error: function (xhr) {
                     console.log(xhr);
