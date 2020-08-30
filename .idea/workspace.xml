@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c3b3ed4-ab41-4356-8a5f-ad2ff7f23800" name="Default Changelist" comment="" />
+    <list default="true" id="4c3b3ed4-ab41-4356-8a5f-ad2ff7f23800" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +19,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -124,6 +129,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1gitx71Wx52eQ8jG7zbX2hs00i6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -155,6 +161,7 @@
       <workItem from="1598706471426" duration="13064000" />
       <workItem from="1598766450652" duration="6578000" />
       <workItem from="1598778797521" duration="6413000" />
+      <workItem from="1598808894172" duration="50000" />
     </task>
     <servers />
   </component>
@@ -162,6 +169,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="422" y="199" width="583" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598808923531">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="422" y="199" width="583" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1294.741@72.27.1294.741" timestamp="1598808923531" />
     <state x="382" y="89" key="search.everywhere.popup" timestamp="1598708628666">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
