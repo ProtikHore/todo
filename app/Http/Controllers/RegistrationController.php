@@ -16,6 +16,7 @@ class RegistrationController extends Controller
 
     public function save(RegistrationRequest  $request)
     {
+        return response()->json('hello');
         $data = new User();
         $data->name = $request->get('name');
         $data->contact_no = $request->get('contact_no');
